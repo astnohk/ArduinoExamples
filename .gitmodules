@@ -1,0 +1,4 @@
+[submodule "WioBot/Servo"]
+	path = WioBot/Servo
+	url = https://github.com/adafruit/Servo.git
+	branch = adafruit_samd51
